@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/aditya.vikram/investment-calculator.git
+git clone[ https://github.com/aditya.vikram/investment-calculator.git](https://github.com/Aditya-vikram01/Tic-Tac-Toe-REACT.git)
 Navigate to the project directory:
 
 bash
